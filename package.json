@@ -2,7 +2,7 @@
   "name": "webpack-font-preload-plugin",
   "version": "1.0.2",
   "description": "A webpack plugin to allow preloading or prefetching of fonts.",
-  "main": "src/cjs.js",
+  "main": "src/index.js",
   "scripts": {
     "lint": "eslint ./src --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
